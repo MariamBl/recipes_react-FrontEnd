@@ -1,0 +1,6 @@
+projectKey=foodmafood
+serverUrl=http://localhost:9000
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:9000/dashboard?id=foodmafood
+ceTaskId=AYzBqXU-a3Q7S1gm1yLN
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYzBqXU-a3Q7S1gm1yLN
